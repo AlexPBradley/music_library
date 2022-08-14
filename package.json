@@ -1,0 +1,23 @@
+{
+  "name": "music-lib",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexPBradley/music_library.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexPBradley/music_library/issues"
+  },
+  "homepage": "https://github.com/AlexPBradley/music_library#readme",
+  "devDependencies": {
+    "eslint": "^8.22.0"
+  }
+}
